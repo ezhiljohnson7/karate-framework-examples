@@ -7,7 +7,9 @@ function fn() {
   var config = {
     env: env,
 	baseUrl: 'http://localhost:8080/api/v1',
-	reqresUrl: 'https://reqres.in'
+	reqresUrl: 'https://reqres.in',
+	baseUrl1: 'http://localhost:8080/api/v1',
+	reqresUrl1: 'https://reqres.in'
   }
   if (env == 'dev') {
     // customize
