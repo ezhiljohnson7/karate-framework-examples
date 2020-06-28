@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 21 03:14:48 IST 2020
+http\://repo.numericalmethod.com/maven/.error=Could not transfer artifact org.slf4j\:slf4j-log4j12\:pom\:1.7.25 from/to nm-repo (http\://repo.numericalmethod.com/maven/)\: Access denied to http\://repo.numericalmethod.com/maven/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.pom. Error code 401, Unauthorized
+https\://repo.maven.apache.org/maven2/.lastUpdated=1592689488707
+https\://nexus.bedatadriven.com/content/groups/public/.error=
+@default-nm-repo-http\://repo.numericalmethod.com/maven/.lastUpdated=1592689488048
+https\://nexus.bedatadriven.com/content/groups/public/.lastUpdated=1592689488422

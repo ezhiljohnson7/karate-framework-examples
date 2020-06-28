@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 21 14:39:42 IST 2020
+asm-5.1.jar>repo.jenkins-ci.org=
+asm-5.1.pom>repo.jenkins-ci.org=
+asm-5.1.pom>central=
+asm-5.1.jar>central=

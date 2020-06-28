@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 24 01:35:00 IST 2020
+karate-junit4-0.6.0-sources.jar>central=
+karate-junit4-0.6.0.jar>central=
+karate-junit4-0.6.0.pom>central=

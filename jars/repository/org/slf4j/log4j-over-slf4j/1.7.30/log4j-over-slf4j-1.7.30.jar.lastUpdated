@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 13 11:37:49 IST 2020
+@default-internal-http\://maven1.sql1.eng.conviva.com\:8080/repository/internal/.lastUpdated=1586758058930
+https\://repo.maven.apache.org/maven2/.lastUpdated=1586758069156
+http\://maven1.sql1.eng.conviva.com\:8080/repository/internal/.error=Could not transfer artifact org.slf4j\:log4j-over-slf4j\:jar\:1.7.30 from/to internal (http\://maven1.sql1.eng.conviva.com\:8080/repository/internal)\: Failed to transfer http\://maven1.sql1.eng.conviva.com\:8080/repository/internal/org/slf4j/log4j-over-slf4j/1.7.30/log4j-over-slf4j-1.7.30.jar. Error code 500, Unable to fetch artifact resource.
