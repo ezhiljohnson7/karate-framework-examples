@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Apr 13 12:40:59 IST 2020
-@default-internal-http\://maven1.sql1.eng.conviva.com\:8080/repository/internal/.lastUpdated=1586761859934
-http\://maven1.sql1.eng.conviva.com\:8080/repository/internal/.error=Could not transfer artifact junit\:junit\:jar\:${junit.version} from/to internal (http\://maven1.sql1.eng.conviva.com\:8080/repository/internal)\: Failed to transfer http\://maven1.sql1.eng.conviva.com\:8080/repository/internal/junit/junit/${junit.version}/junit-${junit.version}.jar. Error code 500, Server Error
-https\://repo.maven.apache.org/maven2/.lastUpdated=1586761858748
-https\://repo.maven.apache.org/maven2/.error=
