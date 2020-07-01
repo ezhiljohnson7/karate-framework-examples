@@ -71,4 +71,8 @@ Feature:  I want to get the list of all the student registered in this applicati
 		And path 'students'
 		When method get
 		Then status 200
-		And def hdrs = karate.prevRequest.headers
+		And print karate.prevRequest.headers
+		* def jsonHeaders = karate.prevRequest.headers
+		* print jsonHeaders['Host'][0]
+		* match jsonHeaders['Host'][0] == 'localhost:8080'
+		
