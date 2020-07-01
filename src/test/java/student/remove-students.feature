@@ -10,6 +10,7 @@ Feature:  I want to get the list of all the student registered in this applicati
 
 		Given url baseUrl
 		And path 'students'
-		When method get
+		When method delete
 		Then status 200
 		And print response
+		And print response.status
