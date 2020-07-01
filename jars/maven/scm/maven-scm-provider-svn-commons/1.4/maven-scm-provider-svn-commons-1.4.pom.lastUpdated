@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 21 03:15:20 IST 2020
+http\://repo.numericalmethod.com/maven/.error=Could not transfer artifact org.apache.maven.scm\:maven-scm-provider-svn-commons\:pom\:1.4 from/to nm-repo (http\://repo.numericalmethod.com/maven/)\: Access denied to http\://repo.numericalmethod.com/maven/org/apache/maven/scm/maven-scm-provider-svn-commons/1.4/maven-scm-provider-svn-commons-1.4.pom. Error code 401, Unauthorized
+https\://repo.maven.apache.org/maven2/.lastUpdated=1592689520899
+https\://nexus.bedatadriven.com/content/groups/public/.error=
+@default-nm-repo-http\://repo.numericalmethod.com/maven/.lastUpdated=1592689520238
+https\://nexus.bedatadriven.com/content/groups/public/.lastUpdated=1592689520611

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 03 01:46:23 IST 2020
+surefire-booter-2.14.1-sources.jar>central=
+surefire-booter-2.14.1.pom>central=
+surefire-booter-2.14.1.jar>central=

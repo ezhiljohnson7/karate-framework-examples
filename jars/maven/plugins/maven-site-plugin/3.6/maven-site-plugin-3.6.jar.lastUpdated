@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 21 03:03:49 IST 2020
+https\://repo.jenkins-ci.org/public/.lastUpdated=1592688829740
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1527396990329
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:jar\:3.6 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
