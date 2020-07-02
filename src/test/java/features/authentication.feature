@@ -4,6 +4,7 @@ Feature:  I want to get the list of all the student registered in this applicati
 
 		* header Content-Type = 'application/json'
 
+  @smoke
 	Scenario:
 
 		Given url baseUrl

@@ -20,7 +20,7 @@ Feature:  I want to get the list of all the student registered in this applicati
             ]
 		}"""
 
-
+@smoke
 	Scenario:
 
 		Given url baseUrl

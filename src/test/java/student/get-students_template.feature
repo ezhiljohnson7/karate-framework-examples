@@ -3,9 +3,9 @@ Feature:  I want to get the list of all the student registered in this applicati
 	Background:
 
 		* header Content-Type = 'application/json'
-		* header Authorization = call read('classpath:student/auth.js') { username : 'user', password : 'password'}
+		* header Authorization = call read('classpath:student/auth.js') { username : '#(username)', password : '#(password)'}
 
-@smoke
+
 	Scenario:
 
 		Given url baseUrl

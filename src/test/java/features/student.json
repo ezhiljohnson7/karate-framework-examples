@@ -1,0 +1,16 @@
+{
+	"name": "#(user.name)",
+	"age":#(user.age),
+	"emailId": "user1@abc.com",
+		"mobileNo": 9876543210,
+	"semester": 8,
+	"department": "cse",
+	"ssid": "4567897654",
+	"xyz": "5433543",
+	"hobbies": [
+		"Coding",
+		"Gaming",
+		"Tennis",
+		"Music"
+	]
+}

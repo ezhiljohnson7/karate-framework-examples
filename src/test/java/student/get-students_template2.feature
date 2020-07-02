@@ -5,11 +5,11 @@ Feature:  I want to get the list of all the student registered in this applicati
 		* header Content-Type = 'application/json'
 		* header Authorization = call read('classpath:student/auth.js') { username : 'user', password : 'password'}
 
-@smoke
+
 	Scenario:
 
 		Given url baseUrl
-		And path 'students'
+		And path '#(path)'
 		When method get
 		Then status 200
 		

@@ -65,6 +65,8 @@ Feature:  I want to get the list of all the student registered in this applicati
 #		And match response.students[0].hobbies[2] == 'Football'
 #		
 						# HEADER VALIDATIONS
+		@smoke
+		@sanity
 		Scenario:
 		
 		Given url baseUrl
