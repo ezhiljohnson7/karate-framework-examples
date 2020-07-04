@@ -8,19 +8,8 @@ Feature:  I want to get the list of all the student registered in this applicati
 @smoke
 	Scenario:
 
-		Given url baseUrl
-		* def username = 'user1'
-		And path 'student/'+ username
-		When method get
-		Then status 200
-		And print response
-		And print response.age
-		And assert response.age == 50
-		
-	Scenario:
-
-		Given url baseUrl
-		* def username = 'user1'
+		Given url reqresUrl
+		* def username = 'user2'
 		And path 'student/'+ username
 		When method get
 		Then status 200

@@ -17,3 +17,5 @@ STEP-2: Karate-env setup instructions:
 STEP-3: In step-1 capture the port in which the web-application is running and update the src/test/java/karate-config.js file with the right socket/uri.
 
 STEP-4: Refer the sample features available in src/test/java -> any package.
+
+STEP-5: Run the project from command line via maven -> 'mvn test -D test=StudentRunner'(replace the runner class with any other runner class you need).
