@@ -2,7 +2,7 @@
 
 		a) Navigate to jars/app/student-application 
 
-	        b) ```java -jar ../karate-testing/jars/app/student-application-1.0.1-SNAPSHOT.jar```
+	        b) java -jar ../karate-testing/jars/app/student-application-1.0.1-SNAPSHOT.jar
 
 
 **STEP-2:** Karate-env setup instructions:
@@ -10,7 +10,7 @@
 		a) Install Maven and Create maven project with archetype -> karata-archetype via eclipse 
 									or
 								via command line 
-			```mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=0.9.5 -DgroupId=com.karate -DartifactId=training```
+			mvn archetype:generate -DarchetypeGroupId=com.intuit.karate -DarchetypeArtifactId=karate-archetype -DarchetypeVersion=0.9.5 -DgroupId=com.karate -DartifactId=training
 			
 		b) Import the project created above to your eclipse/any IDE
 		
